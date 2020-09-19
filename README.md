@@ -14,7 +14,7 @@
 3. [登记投票](https://developer.algorand.org/solutions/example-permissioned-voting-stateful-smart-contract-application/#voters-opt-into-voting-smart-contract-step-3) - 选民需要通过选择进入合约的方式以在智能投票合约中注册。注册投票发生在合约创立过程中设定的一组回合之间；
 4. [投票](https://developer.algorand.org/solutions/example-permissioned-voting-stateful-smart-contract-application/#users-vote-step-4) - 选民通过原子式地将两个交易分组并提交给区块链进行投票。第一个交易是调用智能合约，为候选人a或候选人b投票。第二个交易是从选民到中央当局的资产转移，以使用他们的投票权标记。
 
-![image](1F7E9777E0904ED1840AFE6DCC27DBDB)
+![image](https://github.com/GinVenXi/test/blob/master/figure%201.png)
 
 ![image](D1F69D22720B4646A9153AEC490EABEE)
 
